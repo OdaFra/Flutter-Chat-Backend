@@ -13,7 +13,7 @@ const getUsuarios = async (req, res, response) => {
         ok: true,
         // msg:'getUsuarios'
         usuarios,
-        desde
+        desde   
     })
 
 }
